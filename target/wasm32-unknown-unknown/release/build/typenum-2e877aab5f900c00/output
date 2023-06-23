@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/tudoriovita/Documents/actual/casper/cep18/target/wasm32-unknown-unknown/release/build/typenum-2e877aab5f900c00/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/tudoriovita/Documents/actual/casper/cep18/target/wasm32-unknown-unknown/release/build/typenum-2e877aab5f900c00/out/op.rs

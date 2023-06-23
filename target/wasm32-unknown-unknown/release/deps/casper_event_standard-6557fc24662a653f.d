@@ -1,0 +1,10 @@
+/Users/tudoriovita/Documents/actual/casper/cep18/target/wasm32-unknown-unknown/release/deps/casper_event_standard-6557fc24662a653f.rmeta: /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/lib.rs /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/cl_type2.rs /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/schema.rs /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/contract.rs
+
+/Users/tudoriovita/Documents/actual/casper/cep18/target/wasm32-unknown-unknown/release/deps/libcasper_event_standard-6557fc24662a653f.rlib: /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/lib.rs /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/cl_type2.rs /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/schema.rs /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/contract.rs
+
+/Users/tudoriovita/Documents/actual/casper/cep18/target/wasm32-unknown-unknown/release/deps/casper_event_standard-6557fc24662a653f.d: /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/lib.rs /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/cl_type2.rs /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/schema.rs /Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/contract.rs
+
+/Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/lib.rs:
+/Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/cl_type2.rs:
+/Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/schema.rs:
+/Users/tudoriovita/.cargo/registry/src/github.com-1ecc6299db9ec823/casper-event-standard-0.3.0/src/contract.rs:

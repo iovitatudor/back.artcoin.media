@@ -9,6 +9,6 @@ app.use(cors({
 
 app.use('/', router);
 
-app.listen(3000, function () {
+app.listen(3302, function () {
   console.log('App listening on port 3000!');
 });

@@ -28,9 +28,8 @@ module.exports = async function (req, res) {
     );
 
     const deployStatus = await deploy.send(config.nodeUrl);
-    console.log(deployStatus);
     res.send(deployStatus);
   } catch (e) {
-    res.send(`Error - ${e}`);
+    res.status(500).send(`${e}`);
   }
 }

@@ -19,6 +19,10 @@ module.exports = async function (req, res) {
 
     res.send(result);
   } catch (e) {
-    res.send(`Error - ${e}`);
+    const result = {
+      publicKey: req.query.privateKey,
+      balance: 0,
+    };
+    res.send(result);
   }
 }

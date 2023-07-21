@@ -8,6 +8,5 @@ const routes= express.Router();
 routes.get('/', documentation);
 routes.get('/transfer', supply);
 routes.get('/balance', balance);
-// routes.get('/transfer', transfer);
 
 module.exports = routes;
